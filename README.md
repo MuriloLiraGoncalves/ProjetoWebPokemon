@@ -67,7 +67,7 @@ Basta abrir o ficheiro index.html no teu navegador favorito!
 
 👥 Equipa de Desenvolvimento
 
-🧑‍💻 Matheus Catolica
+🧑‍💻 Matheus Rodrigues
 
 🧑‍💻 Samuel Valentin
 
