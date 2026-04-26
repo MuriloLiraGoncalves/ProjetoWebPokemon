@@ -21,6 +21,9 @@ Fundo dinâmico com padrão de sprites e renderização nítida (image-rendering
 Animações de transição para uma experiência mais fluida.
 
 JavaScript (ES6+): Lógica robusta e moderna aplicada ao motor do quiz através de Orientação a Objetos.
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
 🧠 Diferenciais Técnicos (Requisitos Académicos)
 
@@ -48,12 +51,12 @@ Seguindo estes passos simples:
 
 Clona o repositório:
 
-git clone [https://github.com/teu-utilizador/pokemon-quiz.git](https://github.com/teu-utilizador/pokemon-quiz.git)
+git clone https://github.com/MuriloLiraGoncalves/ProjetoWebPokemon
 
 
 Entra na pasta:
 
-cd pokemon-quiz
+cd Projeto_pokemon_web
 
 
 Executa o projeto:
@@ -69,4 +72,4 @@ Basta abrir o ficheiro index.html no teu navegador favorito!
 
 🧑‍💻 Felipe Teixeira
 
-👩‍💻 Giovana Aguiar
+👧💻 Giovana Aguiar
