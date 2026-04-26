@@ -21,6 +21,7 @@ Fundo dinâmico com padrão de sprites e renderização nítida (image-rendering
 Animações de transição para uma experiência mais fluida.
 
 JavaScript (ES6+): Lógica robusta e moderna aplicada ao motor do quiz através de Orientação a Objetos.
+
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3&logoColor=white)
